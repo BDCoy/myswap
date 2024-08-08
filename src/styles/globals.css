@@ -18,13 +18,13 @@ html,
 body {
   height: 100%;
   scroll-behavior: smooth;
-  background-color: theme('colors.background.primary');
+  background-color: #94C2FF;
 }
 
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  color: theme('colors.text.primary');
+  color: theme('colors.text.secondary');
   accent-color: theme('colors.brand.accent');
 }
 

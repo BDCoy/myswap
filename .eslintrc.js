@@ -34,6 +34,7 @@ module.exports = {
   root: true,
   rules: {
     '@typescript-eslint/ban-ts-comment': 'off',
+    'import/no-extraneous-dependencies': 'off',
     '@typescript-eslint/consistent-type-imports': 'error',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     '@typescript-eslint/no-use-before-define': ['error'],
